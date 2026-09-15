@@ -1,0 +1,6 @@
+{
+  "name": "The Creative Story — AI Operating Platform",
+  "description": "Internal business and production operating system connecting BD, projects, shoots, team bookings, costs, revenue, profitability, and role-specific KPIs with an AI intelligence layer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
